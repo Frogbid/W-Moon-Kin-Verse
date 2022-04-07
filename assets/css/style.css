@@ -1,0 +1,14 @@
+.mint{
+    font-size: 35px;
+    font-weight: 700;
+    background-color: #0062cc;
+    color: #ffe000;
+    border: 3px solid white;
+    box-shadow: 5px 5px #1c1c1c5c;
+    margin-top: 250px;
+}
+.responsive {
+    margin-top: 150px;
+    width: 100%;
+    height: auto;
+}
